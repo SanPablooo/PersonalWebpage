@@ -1,0 +1,18 @@
+
+.headers{
+        font-family: Verdana, sans-serif;
+        text-transform: capitalize;
+}
+.headers h2{
+    font-family: Merriweather, Georgia, serif;
+}
+.headers h2 span{
+    color: #ffc200;
+}
+.paragraphs{
+    font-family: Merriweather, Georgia, serif;
+    margin-right: 220px;
+}
+.footers{
+    font-family: Georgia, serif; color: #666; font-size: 14px; font-style: italic;
+}
